@@ -1,0 +1,5 @@
+Search Alg                   Cost   Nodes Expanded
+Depth First Search           938.0   2226
+Breadth First Search         71.5   2131
+Greedy Best First Search     90.5   224
+A*                           70.5   1781
